@@ -1,7 +1,7 @@
-# Ejemplo MVC
+# Ejemplo Automata Deterministico Finito
 
 ##  
-Muestra como un scriptcon directivas de configuración y código en php direcciona el flujo de ejecución de una petición URL hasta presentar un contenido en una página principal.
+Muestra como este automata compara por medio de una entrada "direccion IP" que es un conjunto de Caracteres que cumple con los octetos correspodnientes para determinar si es o no una direccion IP
 
 <a id='contents'></a>
 ## Contenido.
